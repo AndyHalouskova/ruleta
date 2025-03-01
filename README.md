@@ -1,0 +1,2 @@
+# ruleta
+druhy domaci úkol
